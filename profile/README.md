@@ -19,6 +19,12 @@ Supported accounting and ERP software include:
 * QuickBooks Desktop / Enterprise
 * QuickBooks Online
 
+Supported functionalty:
+* Order management
+* Automated accounting
+* Product profitability
+* Inventory quantity sync
+
 ## Where can I read more?
 
 For users of NetSuite:
