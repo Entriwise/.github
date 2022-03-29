@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-💻 As a remote-first company, Entriwise brings people together in highly-skilled team spread out across 4 countries that collectively build integration software.
+💻 Entriwise is a remote-first company building e-commerce integration software.  We are a team passionate people spread out across 4 countries.
 
 ## What we do?
 
