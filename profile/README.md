@@ -11,13 +11,17 @@
 Supported e-commerce platforms and software include:
 * Amazon Seller Central
 * eBay
-* Shopify
 * Walmart Marketplace
+* Shopify
+* WooCommerce
 
 Supported accounting and ERP software include:
 * NetSuite
 * QuickBooks Desktop / Enterprise
 * QuickBooks Online
+
+Supported payment gateways:
+* Stripe
 
 Supported functionalty:
 * Order management
