@@ -25,9 +25,11 @@ Supported payment gateways:
 
 Supported functionalty:
 * Order management
-* Automated accounting
+* Automated financial accounting
+* Inventory integration
 * Product profitability
 * Inventory quantity sync
+* Brand analytics
 
 ## Where can I read more?
 
