@@ -6,7 +6,7 @@
 
 ## What we do?
 
-⌨️ At Entriwise, we build brilliant software to integrate e-commerce with accounting and ERP software.
+⌨️ At Entriwise, we build cloud software to integrate e-commerce with accounting and ERP software.
 
 Supported e-commerce platforms and software include:
 * Amazon Seller Central
