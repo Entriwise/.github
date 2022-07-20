@@ -9,19 +9,19 @@
 ⌨️ At Entriwise, we build cloud software to integrate e-commerce with accounting and ERP software.
 
 Supported e-commerce platforms and software include:
-* Amazon Seller Central
-* eBay
-* Walmart Marketplace
-* Shopify
-* WooCommerce
+* [Amazon Seller Central](https://sellercentral.amazon.com/)
+* [eBay](https://www.ebay.com/)
+* [Walmart Seller Center](https://seller.walmart.com)
+* [Shopify](https://www.shopify.com/)
+* [WooCommerce](https://woocommerce.com/)
 
 Supported accounting and ERP software include:
-* NetSuite
-* QuickBooks Desktop / Enterprise
-* QuickBooks Online
+* [NetSuite](https://www.netsuite.com)
+* [QuickBooks Desktop](https://quickbooks.intuit.com/desktop/) / [Enterprise](https://quickbooks.intuit.com/desktop/enterprise/)
+* [QuickBooks Online](https://quickbooks.intuit.com/online/)
 
 Supported payment gateways:
-* Stripe
+* [Stripe](https://stripe.com)
 
 Supported functionalty:
 * Order management
