@@ -11,8 +11,9 @@
 Supported e-commerce platforms and software include:
 * [Amazon Seller Central](https://sellercentral.amazon.com/)
 * [eBay](https://www.ebay.com/)
-* [Walmart Seller Center](https://seller.walmart.com)
+* [TikTok Shop](https://shop.tiktok.com/)
 * [Shopify](https://www.shopify.com/)
+* [Walmart Seller Center](https://seller.walmart.com)
 * [WooCommerce](https://woocommerce.com/)
 
 Supported accounting and ERP software include:
